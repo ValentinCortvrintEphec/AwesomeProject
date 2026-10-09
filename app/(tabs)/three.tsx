@@ -13,7 +13,7 @@ export default function ThirdScreen() {
         gap: 20,
       }}
     >
-      <Text>Troisième onglet</Text>
+      <Text>Bienvenue sur mon troisième onglet ! (autre branche)</Text>
 
       <Button title="Ouvrir la modale" onPress={() => router.push("/modal")} />
     </View>
